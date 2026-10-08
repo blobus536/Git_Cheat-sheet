@@ -143,3 +143,20 @@ ___
 [code]: https://skillbox.ru/media/code/
 ![Изображение](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown")
 
+![Изображение][1]
+
+
+[1]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown"
+Функция `print (x)` выводит содержимое переменной ```x```.
+
+```
+#include <stdio.h>
+int main() {
+   printf("Hello, World!");
+   return 0;
+}
+```
+
+	let x = 12;
+	let y = 6;
+	console.log(x + y);
