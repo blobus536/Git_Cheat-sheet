@@ -137,5 +137,9 @@ ___
 [Раздел «Код»][code]
 
 
+
+
 [1]: https://skillbox.ru/media "Всплывающая подсказка"
 [code]: https://skillbox.ru/media/code/
+![Изображение](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown")
+
