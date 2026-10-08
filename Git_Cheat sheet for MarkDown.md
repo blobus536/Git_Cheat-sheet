@@ -131,3 +131,11 @@ ___
 [Skillbox Media](https://skillbox.ru/media/) без подсказки
 
 [Skillbox Media](https://skillbox.ru/media/ "Всплывающая подсказка") с подсказкой
+
+[Skillbox Media][1]
+
+[Раздел «Код»][code]
+
+
+[1]: https://skillbox.ru/media "Всплывающая подсказка"
+[code]: https://skillbox.ru/media/code/
